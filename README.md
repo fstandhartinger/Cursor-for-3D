@@ -1,5 +1,7 @@
 # Cursor for 3D
 
+### [Check out our Website](https://ai-modeling-genius.lovable.app/)
+
 *A Powerful AI-Enhanced Fork of Blender*
 
 Cursor for 3D takes Blender, the popular open-source 3D modeling software, and elevates it by integrating cutting-edge AI capabilities. Designed for creators who seek an AI-driven, seamless 3D experience, Cursor for 3D streamlines modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing with intuitive, intelligent assistance.

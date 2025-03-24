@@ -1,38 +1,24 @@
-<!--
-Keep this document short & concise,
-linking to external resources instead of including content in-line.
-See 'release/text/readme.html' for the end user read-me.
--->
+# Cursor for 3D
 
-Blender
-=======
+*A Powerful AI-Enhanced Fork of Blender*
 
-Blender is the free and open source 3D creation suite.
-It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing,
-motion tracking and video editing.
+Cursor for 3D takes Blender, the popular open-source 3D modeling software, and elevates it by integrating cutting-edge AI capabilities. Designed for creators who seek an AI-driven, seamless 3D experience, Cursor for 3D streamlines modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing with intuitive, intelligent assistance.
 
-![Blender screenshot](https://code.blender.org/wp-content/uploads/2018/12/springrg.jpg "Blender screenshot")
+![Blender AI Enhanced Screenshot](https://code.blender.org/wp-content/uploads/2018/12/springrg.jpg "Cursor for 3D screenshot")
 
-Project Pages
--------------
+## Key Features
+- **AI-Powered Modeling:** Accelerate your workflow with smart modeling recommendations and automatic topology optimizations.
+- **Intelligent Rigging & Animation:** AI-supported rigging and animation systems drastically reduce manual work.
+- **Smart Rendering:** Leverage AI to achieve faster renders with superior quality.
+- **Seamless Integration:** Full compatibility with existing Blender projects and plugins.
 
-- [Main Website](http://www.blender.org)
+## Project Links
+- [Original Blender Website](http://www.blender.org)
 - [Reference Manual](https://docs.blender.org/manual/en/latest/index.html)
-- [User Community](https://www.blender.org/community/)
-
-Development
------------
-
-- [Build Instructions](https://developer.blender.org/docs/handbook/building_blender/)
-- [Code Review & Bug Tracker](https://projects.blender.org)
-- [Developer Forum](https://devtalk.blender.org)
 - [Developer Documentation](https://developer.blender.org/docs/)
 
+## Contribute
+We're open to contributions! Explore the [code repository](https://github.com/fstandhartinger/Cursor-for-3D), submit issues, and propose enhancements.
 
-License
--------
-
-Blender as a whole is licensed under the GNU General Public License, Version 3.
-Individual files may have a different, but compatible license.
-
-See [blender.org/about/license](https://www.blender.org/about/license) for details.
+## License
+Cursor for 3D is released under the GNU General Public License, Version 3. Individual files may carry different but compatible licenses. See [blender.org/about/license](https://www.blender.org/about/license) for more information.

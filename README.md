@@ -26,3 +26,7 @@ We're open to contributions! Explore the [code repository](https://github.com/fs
 
 ## License
 Cursor for 3D is released under the GNU General Public License, Version 3. Individual files may carry different but compatible licenses. See [blender.org/about/license](https://www.blender.org/about/license) for more information.
+
+
+###
+* it's a joke

@@ -1,6 +1,8 @@
 # Cursor for 3D
 
-### [Check out our Website](https://ai-modeling-genius.lovable.app/)
+## [Check out our Website](https://ai-modeling-genius.lovable.app/)
+![cursor-3d](https://github.com/user-attachments/assets/25d2aa62-5ae2-4a8d-8c1b-252df1013b3d)
+
 
 *A Powerful AI-Enhanced Fork of Blender*
 

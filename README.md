@@ -4,7 +4,9 @@
 
 Cursor for 3D takes Blender, the popular open-source 3D modeling software, and elevates it by integrating cutting-edge AI capabilities. Designed for creators who seek an AI-driven, seamless 3D experience, Cursor for 3D streamlines modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing with intuitive, intelligent assistance.
 
-![Blender AI Enhanced Screenshot](https://code.blender.org/wp-content/uploads/2018/12/springrg.jpg "Cursor for 3D screenshot")
+![image](https://github.com/user-attachments/assets/66231e34-34b8-4289-b68c-477f7abe4c63)
+
+
 
 ## Key Features
 - **AI-Powered Modeling:** Accelerate your workflow with smart modeling recommendations and automatic topology optimizations.

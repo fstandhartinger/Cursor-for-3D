@@ -29,4 +29,4 @@ Cursor for 3D is released under the GNU General Public License, Version 3. Indiv
 
 
 ###
-* it's a joke
+(it's a joke)
